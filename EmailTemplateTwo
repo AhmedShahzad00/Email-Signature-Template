@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;700&display=swap"
+  />
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ahmed Shahzad</title>
+    <style>
+      * {
+        font-family: "Quicksand", Verdana, sans-serif;
+      }
+
+      body,
+      html {
+        height: 100%;
+        margin: 0;
+      }
+
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <table
+        cellpadding="0"
+        cellspacing="0"
+        style="
+          vertical-align: -webkit-baseline-middle;
+          font-size: medium;
+          font-family: Quicksand;
+        "
+      >
+        <tbody>
+          <tr>
+            <td>
+              <table
+                cellpadding="0"
+                cellspacing="0"
+                style="vertical-align: -webkit-baseline-middle"
+              >
+                <tbody>
+                  <tr>
+                    <td width="150" style="vertical-align: middle">
+                      <span style="margin-right: 20px; display: block">
+                        <a  target="_blank">
+                          <img
+                            src="C:\Users\daniy\Downloads\MIDBank\2024\Jan/Screenshot_1.png"
+                            width="130"
+                            style="max-width: 130px"
+                          />
+                        </a>
+                      </span>
+                    </td>
+                    <td style="vertical-align: middle">
+                      <h1
+                        style="
+                          margin: 0px;
+                          font-size: 18px;
+                          color: rgb(0, 0, 0);
+                        "
+                      >
+                        Ahmed Shahzad
+                      </h1>
+                      <p
+                        style="
+                          margin: 0px;
+                          color: rgb(0, 0, 0);
+                          font-size: 14px;
+                          line-height: 22px;
+                        "
+                      >
+                        Senior Front-end Developer &amp; Senior Email Signature Developer
+                      </p>
+                    </td>
+                    <td width="30"><div style="width: 30px"></div></td>
+                    <td
+                      width="1"
+                      height="auto"
+                      style="
+                        width: 1px;
+                        border-bottom: none;
+                        border-left: 1px solid rgb(59, 95, 166);
+                      "
+                    ></td>
+                    <td width="30"><div style="width: 30px"></div></td>
+                    <td style="vertical-align: middle">
+                      <table
+                        cellpadding="0"
+                        cellspacing="0"
+                        style="vertical-align: -webkit-baseline-middle"
+                      >
+                        <tbody>
+                          <tr height="25" style="vertical-align: middle">
+                            <td width="30" style="vertical-align: middle">
+                              <table
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="vertical-align: -webkit-baseline-middle"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td style="vertical-align: bottom">
+                                      <span
+                                        color="#3B5FA6"
+                                        style="
+                                          display: block;
+                                          background-color: rgb(59, 95, 166);
+                                          margin-top: 3px;
+                                        "
+                                      >
+                                        <img
+                                          src="https://www.francgs.dev/resources/img/phone.png"
+                                          color="#3B5FA6"
+                                          width="12"
+                                          style="
+                                            display: block;
+                                            background-color: rgb(59, 95, 166);
+                                          "
+                                        />
+                                      </span>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                            <td style="padding: 0px; color: rgb(0, 0, 0)">
+                              <a
+                                href="tel:+573177348312"
+                                style="color: rgb(0, 0, 0); font-size: 12px"
+                                target="_blank"
+                                >+92 304 251 8403</a
+                              >
+                            </td>
+                          </tr>
+                          <tr height="25" style="vertical-align: middle">
+                            <td width="30" style="vertical-align: middle">
+                              <table
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="vertical-align: -webkit-baseline-middle"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td style="vertical-align: bottom">
+                                      <span
+                                        color="#3B5FA6"
+                                        style="
+                                          display: block;
+                                          background-color: rgb(59, 95, 166);
+                                          margin-top: 3px;
+                                        "
+                                      >
+                                        <img
+                                          src="https://www.francgs.dev/resources/img/email.webp"
+                                          color="#3B5FA6"
+                                          width="12"
+                                          style="
+                                            display: block;
+                                            background-color: rgb(59, 95, 166);
+                                          "
+                                        />
+                                      </span>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                            <td style="padding: 0px">
+                              <a
+                                href="mailto:javiergonzalezsilva@gmail.com"
+                                style="color: rgb(0, 0, 0); font-size: 12px"
+                                target="_blank"
+                                >ah.shahzad11@gmail.com</a
+                              >
+                            </td>
+                          </tr>
+                          <tr height="25" style="vertical-align: middle">
+                            <td width="30" style="vertical-align: middle">
+                              <table
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="vertical-align: -webkit-baseline-middle"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td style="vertical-align: bottom">
+                                      <span
+                                        color="#3B5FA6"
+                                        style="
+                                          display: block;
+                                          background-color: rgb(59, 95, 166);
+                                          margin-top: 3px;
+                                        ">
+                                        <!-- <img
+                                          src="https://www.francgs.dev/resources/img/link.png"
+                                          color="#3B5FA6"
+                                          width="12"
+                                          style="
+                                            display: block;
+                                            background-color: rgb(59, 95, 166);
+                                          "
+                                        /> -->
+                                      </span>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                            <!-- <td style="padding: 0px">
+                              <a
+                                href="https://www.francgs.dev/"
+                                style="color: rgb(0, 0, 0); font-size: 12px"
+                                target="_blank"
+                                >www.francgs.dev</a
+                              >
+                            </td> -->
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <table
+                cellpadding="0"
+                cellspacing="0"
+                style="
+                  width: 745.266px;
+                  vertical-align: -webkit-baseline-middle;
+                "
+              >
+                <tbody>
+                  <tr>
+                    <td height="30"></td>
+                  </tr>
+                  <tr>
+                    <td
+                      width="auto"
+                      height="1"
+                      style="
+                        width: 745.266px;
+                        border-bottom: 1px solid rgb(59, 95, 166);
+                        border-left: none;
+                        display: block;
+                      "
+                    ></td>
+                  </tr>
+                  <tr>
+                    <td height="30"></td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <table
+                cellpadding="0"
+                cellspacing="0"
+                style="
+                  width: 745.266px;
+                  vertical-align: -webkit-baseline-middle;
+                "
+              >
+                <tbody>
+                  <tr>
+                    <td style="vertical-align: top"></td>
+                    <td style="text-align: right; vertical-align: top">
+                      <table
+                        cellpadding="0"
+                        cellspacing="0"
+                        style="
+                          display: inline-block;
+                          vertical-align: -webkit-baseline-middle;
+                        "
+                      >
+                        <tbody>
+                          <tr>
+                            <td>
+                              <a
+                                
+                                style="display: inline-block; padding: 0px"
+                                target="_blank"
+                                ><img
+                                  src="https://www.francgs.dev/resources/img/github.png"
+                                  alt="github"
+                                  height="24"
+                                  style="max-width: 135px; display: block"
+                              /></a>
+                            </td>
+                            <td width="5"><div></div></td>
+                            <td>
+                              <a
+                                
+                                style="display: inline-block; padding: 0px"
+                                target="_blank"
+                                ><img
+                                  src="https://www.francgs.dev/resources/img/linkedin.png"
+                                  alt="linkedin"
+                                  height="24"
+                                  style="max-width: 135px; display: block"
+                              /></a>
+                            </td>
+                            <td width="10"><div></div></td>
+                            <td>
+                              <a
+                                
+                                style="display: inline-block; padding: 0px"
+                                target="_blank"
+                                ><img
+                                  src="https://www.francgs.dev/resources/img/instagram.png"
+                                  alt="linkedin"
+                                  height="24"
+                                  style="max-width: 135px; display: block"
+                              /></a>
+                            </td>
+                            <td width="5"><div></div></td>
+                            <td>
+                              <a
+                               
+                                style="display: inline-block; padding: 0px"
+                                target="_blank"
+                                ><img
+                                  src="https://www.francgs.dev/resources/img/twitter.png"
+                                  alt="twitter"
+                                  height="24"
+                                  style="max-width: 135px; display: block"
+                              /></a>
+                            </td>
+                            <td width="5"><div></div></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td height="30"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>
